@@ -1,0 +1,49 @@
+Variables
+
+Rules : 
+Allowed Characters: Names can only contain letters (A-Z, a-z), digits (0-9), the underscore character (_), and the dollar sign ($).
+Starting Character: A variable name must begin with a letter, a dollar sign ($), or an underscore (_). It cannot start with a digit.
+No Keywords: You cannot use any of the Java reserved keywords (like int, if, class, public, void, true, false, null, etc.) as a variable name.
+Case-Sensitive: Variable names are case-sensitive. For example, myVar and myvar are treated as two different variables.
+No Spaces: Variable names cannot contain white spaces.
+No Limit on Length: There is no explicit limit on the length of a variable name. 
+
+
+Conventions : 
+Use lowerCamelCase: Start the variable name with a lowercase letter, and capitalize the first letter of each subsequent internal word.
+Examples: firstName, totalAmount, isGameOver
+Be Descriptive: Choose meaningful and mnemonic names that indicate the variable's intent or purpose. Avoid single-character names (except for temporary loop counters like i, j, k) or overly short abbreviations.
+Avoid $ and _ as the First Character: While technically allowed, starting names with $ or _ is generally discouraged for general programming variables, as these are sometimes used for machine-generated names or specific system-level variables.
+Constants: For variables declared as constants (using the final and static keywords), use all uppercase letters with words separated by underscores (_) (known as SCREAMING_SNAKE_CASE).
+Examples: MAX_WIDTH, PI, DEFAULT_TIMEOUT 
+
+
+
+Datatypes : 
+
+premitive datatypes :
+
+byte    0       1 byte   2^7-1 to -2^7 = 127 to -128
+short   0       2 byte   2^15 -1 to -2^15 =  
+int     0       4 byte   2^31 -1 to -2^31 = 
+long    0       8 byte
+
+float   0.0     4 byte
+double  0.0     8 byte
+
+char            2 byte
+boolean false   1 bit
+
+String - not a datatype in java its java class
+
+1 bit 
+8 bit - 1 byte
+1024 byte - 1kb
+1024 kb = 1 mb
+1024 mb =1 gb
+1024 gb = 1 tb
+
+
+Operators
+Condinal and loooping statements
+arrays
