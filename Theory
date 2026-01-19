@@ -43,7 +43,31 @@ String - not a datatype in java its java class
 1024 mb =1 gb
 1024 gb = 1 tb
 
+convert one type of data into another type
+- implicite [widning]
+- explicite [nerrowing]
 
-Operators
+
+Operators :
+Arithmatic : +,-,*,/,%
+
+Assignment :
+=,+=,-=,*=,/=
+
+relational or comparision
+==,!=,>=,<=,>,<
+
+logical : 
+&&,||, !
+
+unary : 
+++,--
+
+turnary : 
+condition ? true : false
+
+
 Condinal and loooping statements
 arrays
+
+
