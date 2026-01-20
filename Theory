@@ -67,7 +67,18 @@ turnary :
 condition ? true : false
 
 
-Condinal and loooping statements
+Conditional : 
+if-else / switch case
+
+Looping : 
+for , while, do-while
+
+Control : 
+break,continue
+
+
+
+
 arrays
 
 
