@@ -1,0 +1,44 @@
+package Statements;
+
+public class Looping {
+	public static void main(String[] args) {
+		
+		
+		//For
+		
+//		for(int i=1;i<=10;i++)
+//		{
+//			System.out.println(i);
+//		}
+		
+//		for(int i=1;i<=10;i+=2)
+//		{
+//			System.out.println(i);
+//		}
+		
+//		for(int i=10;i>=1;i-=2)
+//		{
+//			System.out.println(i);
+//		}
+		
+		//While
+		
+//		int i = 21;		
+//		while(i<20) {
+//			System.out.println(i);
+//			i++;
+//		}
+		
+		//do-while
+		
+//		int i = 21;		
+//		 do{
+//			System.out.println(i);
+//			i++;
+//		}while(i<20);
+//		
+		
+		
+		
+	}
+}
