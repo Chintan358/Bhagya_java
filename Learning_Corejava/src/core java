@@ -1,0 +1,22 @@
+OOPs : object oriented programming
+***********************************
+class
+object
+inheritance
+polymorphism
+encaptulation
+abstraction
+
+class  :
+logical entity
+ 
+object :
+real time entity
+
+-state    /data memeber / variables
+-behaviour/function memeber / methods
+
+
+--memebers can be of 2 types
+--static  and non-static(defalt)
+
