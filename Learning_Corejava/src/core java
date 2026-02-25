@@ -20,3 +20,25 @@ real time entity
 --memebers can be of 2 types
 --static  and non-static(defalt)
 
+
+constructor
+methods
+inheritance
+access modifier
+encaptulation
+abstraction
+polymorphism
+
+static, this, super, final
+
+String
+String buffer
+String builder
+random
+object
+wrapperclass
+math
+********************************************
+
+
+

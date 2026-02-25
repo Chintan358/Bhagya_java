@@ -10,6 +10,7 @@ class Pen
 	//function memeber / methods
 	void towrite()
 	{
+		
 		System.out.println(price+" "+color+" "+company);
 	}
 	
@@ -18,6 +19,8 @@ class Pen
 		System.out.println("running display");
 	}
 }
+
+
 
 public class O001_ClassDemo {
 	public static void main(String[] args) {
@@ -33,10 +36,10 @@ public class O001_ClassDemo {
 		
 		Pen p3 = new Pen();
 		p3.towrite();
-		
-		
-		
+			
 		Pen.display();
+		
+		
 		
 	}
 }
