@@ -25,6 +25,26 @@ class B extends A
 	}
 }
 
+//multilevel 
+//class C extends B
+//{
+//	
+//}
+
+//hirarchical inheritance
+//class C extends A
+//{
+//	
+//}
+
+//multiple - not supported in java
+//class C extends A,B
+//{
+//	
+//}
+
+
+
 public class O005_InheritanceDemo {
 	public static void main(String[] args) {
 		

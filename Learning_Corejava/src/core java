@@ -27,7 +27,14 @@ inheritance
 access modifier
 encaptulation
 abstraction
-polymorphism
+polymorphism : 
+one name many forms : 
+
+runtime polyporphism : [method overriding]
+Compiletime polymorphism : [method overloading]
+
+
+
 
 static, this, super, final
 
@@ -39,6 +46,12 @@ object
 wrapperclass
 math
 ********************************************
+
+exception 
+
+
+runtime / unchked / uncought
+compile time / checked / caught
 
 
 
